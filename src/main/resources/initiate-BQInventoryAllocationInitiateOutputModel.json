@@ -1,0 +1,13 @@
+{
+  "inventoryAllocationInstanceStatus" : "inventoryAllocationInstanceStatus",
+  "inventoryAllocationInitiateActionReference" : "IAIAR717626",
+  "inventoryAllocationAllocationSchedule" : "inventoryAllocationAllocationSchedule",
+  "inventoryAllocationPreconditions" : "inventoryAllocationPreconditions",
+  "cashInventoryAllocation" : "cashInventoryAllocation",
+  "cashInventoryAllocationServiceInputsandOuputs" : "cashInventoryAllocationServiceInputsandOuputs",
+  "cashInventoryAllocationServiceWorkProduct" : "cashInventoryAllocationServiceWorkProduct",
+  "inventoryAllocationInstanceReference" : "IAIR763255",
+  "inventoryAllocationInitiateActionRecord" : {},
+  "cashInventoryAllocationServiceDescription" : "cashInventoryAllocationServiceDescription",
+  "cashInventoryAllocationServiceType" : "cashInventoryAllocationServiceType"
+}

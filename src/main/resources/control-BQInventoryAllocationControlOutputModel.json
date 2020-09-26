@@ -1,0 +1,13 @@
+{
+  "inventoryAllocationInstanceStatus" : "inventoryAllocationInstanceStatus",
+  "inventoryAllocationAllocationSchedule" : "inventoryAllocationAllocationSchedule",
+  "inventoryAllocationControlActionTaskReference" : "IACATR785535",
+  "inventoryAllocationPreconditions" : "inventoryAllocationPreconditions",
+  "cashInventoryAllocation" : "cashInventoryAllocation",
+  "cashInventoryAllocationServiceInputsandOuputs" : "cashInventoryAllocationServiceInputsandOuputs",
+  "cashInventoryAllocationServiceWorkProduct" : "cashInventoryAllocationServiceWorkProduct",
+  "inventoryAllocationControlActionTaskRecord" : {},
+  "cashInventoryAllocationServiceDescription" : "cashInventoryAllocationServiceDescription",
+  "inventoryAllocationControlActionResponse" : "inventoryAllocationControlActionResponse",
+  "cashInventoryAllocationServiceType" : "cashInventoryAllocationServiceType"
+}

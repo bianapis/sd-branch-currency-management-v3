@@ -1,0 +1,12 @@
+{
+  "inventoryAllocationUpdateActionTaskRecord" : {},
+  "inventoryAllocationAllocationSchedule" : "inventoryAllocationAllocationSchedule",
+  "inventoryAllocationPreconditions" : "inventoryAllocationPreconditions",
+  "cashInventoryAllocation" : "cashInventoryAllocation",
+  "cashInventoryAllocationServiceInputsandOuputs" : "cashInventoryAllocationServiceInputsandOuputs",
+  "cashInventoryAllocationServiceWorkProduct" : "cashInventoryAllocationServiceWorkProduct",
+  "cashInventoryAllocationServiceDescription" : "cashInventoryAllocationServiceDescription",
+  "updateResponseRecord" : {},
+  "cashInventoryAllocationServiceType" : "cashInventoryAllocationServiceType",
+  "inventoryAllocationUpdateActionTaskReference" : "IAUATR715334"
+}

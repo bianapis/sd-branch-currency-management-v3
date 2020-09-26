@@ -1,0 +1,24 @@
+{
+  "inventoryAllocationAllocationSchedule" : "inventoryAllocationAllocationSchedule",
+  "inventoryAllocationPreconditions" : "inventoryAllocationPreconditions",
+  "inventoryAllocationRetrieveActionResponse" : "inventoryAllocationRetrieveActionResponse",
+  "cashInventoryAllocation" : "cashInventoryAllocation",
+  "cashInventoryAllocationServiceInputsandOuputs" : "cashInventoryAllocationServiceInputsandOuputs",
+  "cashInventoryAllocationServiceWorkProduct" : "cashInventoryAllocationServiceWorkProduct",
+  "inventoryAllocationInstanceReport" : {
+    "inventoryAllocationInstanceReportParameters" : "inventoryAllocationInstanceReportParameters",
+    "inventoryAllocationInstanceReportRecord" : {},
+    "inventoryAllocationInstanceReport" : {},
+    "inventoryAllocationInstanceReportType" : "inventoryAllocationInstanceReportType"
+  },
+  "cashInventoryAllocationServiceDescription" : "cashInventoryAllocationServiceDescription",
+  "inventoryAllocationInstanceAnalysis" : {
+    "inventoryAllocationInstanceAnalysisReportType" : "inventoryAllocationInstanceAnalysisReportType",
+    "inventoryAllocationInstanceAnalysisRecord" : {},
+    "inventoryAllocationInstanceAnalysisParameters" : "inventoryAllocationInstanceAnalysisParameters",
+    "inventoryAllocationInstanceAnalysisReport" : {}
+  },
+  "cashInventoryAllocationServiceType" : "cashInventoryAllocationServiceType",
+  "inventoryAllocationRetrieveActionTaskRecord" : {},
+  "inventoryAllocationRetrieveActionTaskReference" : "IARATR757785"
+}

@@ -1,0 +1,39 @@
+{
+  "branchCurrencyManagementOfferedService" : {
+    "branchCurrencyManagementServiceRecord" : {
+      "branchCurrencyManagementServiceType" : "branchCurrencyManagementServiceType",
+      "branchCurrencyManagementServiceDescription" : "branchCurrencyManagementServiceDescription",
+      "branchCurrencyManagementServiceSchedule" : "branchCurrencyManagementServiceSchedule",
+      "branchCurrencyManagementServiceVersion" : "branchCurrencyManagementServiceVersion",
+      "branchCurrencyManagementServicePoliciesandGuidelines" : {
+        "branchCurrencyManagementServiceEligibility" : "branchCurrencyManagementServiceEligibility",
+        "branchCurrencyManagementServiceIntendedUses" : "branchCurrencyManagementServiceIntendedUses",
+        "branchCurrencyManagementServicePricingandTerms" : "branchCurrencyManagementServicePricingandTerms"
+      }
+    },
+    "branchCurrencyManagementServiceReference" : "776158"
+  },
+  "branchCurrencyManagementRetrieveActionTaskReference" : "SRATR795161",
+  "branchCurrencyManagementRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "branchCurrencyManagementActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "branchCurrencyManagementPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "branchCurrencyManagementRetrieveActionTaskRecord" : {},
+  "branchCurrencyManagementRetrieveActionResponse" : "branchCurrencyManagementRetrieveActionResponse"
+}

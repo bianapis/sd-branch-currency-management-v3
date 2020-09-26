@@ -1,0 +1,12 @@
+{
+  "branchCashAllocationSelectedOption" : "branchCashAllocationSelectedOption",
+  "branchCashAllocationRequest" : "branchCashAllocationRequest",
+  "branchCashAllocationParameterType" : "branchCashAllocationParameterType",
+  "branchCashAllocationInitiateActionReference" : "BCAIAR711672",
+  "branchCashAllocationInstanceReference" : "BCAIR700046",
+  "branchCashAllocationStatus" : "branchCashAllocationStatus",
+  "branchCashAllocationSchedule" : "branchCashAllocationSchedule",
+  "branchCashAllocationInitiateActionRecord" : {},
+  "branchCashAllocationInstanceStatus" : "branchCashAllocationInstanceStatus",
+  "branchCashAllocationCustomerReference" : "BCACR798265"
+}

@@ -1,0 +1,12 @@
+{
+  "branchCashAllocationCaptureActionTaskRecord" : {},
+  "branchCashAllocationSelectedOption" : "branchCashAllocationSelectedOption",
+  "branchCashAllocationRequest" : "branchCashAllocationRequest",
+  "branchCashAllocationParameterType" : "branchCashAllocationParameterType",
+  "branchCashAllocationStatus" : "branchCashAllocationStatus",
+  "branchCashAllocationSchedule" : "branchCashAllocationSchedule",
+  "branchCashAllocationCaptureActionTaskReference" : "BCACATR768517",
+  "captureResponseRecord" : {},
+  "branchCashAllocationCustomerReference" : "BCACR710992",
+  "captureRecordReference" : "CRR750694"
+}

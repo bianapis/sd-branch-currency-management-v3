@@ -1,0 +1,31 @@
+{
+  "branchCashAllocationBookingLocation" : "branchCashAllocationBookingLocation",
+  "branchCashAllocationAccountReference" : "BCAAR746000",
+  "branchCashAllocationInstanceReportRecord" : {
+    "branchCashAllocationInstanceReportType" : "branchCashAllocationInstanceReportType",
+    "branchCashAllocationInstanceReportData" : "branchCashAllocationInstanceReportData",
+    "branchCashAllocationInstanceReport" : {}
+  },
+  "branchCashAllocationParameterType" : "branchCashAllocationParameterType",
+  "branchCashAllocationAccountType" : "branchCashAllocationAccountType",
+  "branchCashAllocationDescription" : "branchCashAllocationDescription",
+  "branchCashAllocationRetrieveActionTaskReference" : "BCARATR783655",
+  "branchCashAllocationRetrieveActionTaskRecord" : {},
+  "branchCashAllocationJurisdiction" : "branchCashAllocationJurisdiction",
+  "branchCashAllocation<SubjectArea>Type" : "branchCashAllocation<SubjectArea>Type",
+  "branchCashAllocationSelectedOption" : "branchCashAllocationSelectedOption",
+  "branchCashAllocationRequest" : "branchCashAllocationRequest",
+  "branchCashAllocationCurrency" : "USD",
+  "branchCashAllocationRegulationType" : "branchCashAllocationRegulationType",
+  "branchCashAllocationRegulationReference" : "BCARR738977",
+  "branchCashAllocationRetrieveActionResponse" : "branchCashAllocationRetrieveActionResponse",
+  "branchCashAllocationStatus" : "branchCashAllocationStatus",
+  "branchCashAllocationSchedule" : "branchCashAllocationSchedule",
+  "branchCashAllocationInstanceAnalysis" : {
+    "branchCashAllocationInstanceAnalysisReportType" : "branchCashAllocationInstanceAnalysisReportType",
+    "branchCashAllocationInstanceAnalysisData" : "branchCashAllocationInstanceAnalysisData",
+    "branchCashAllocationInstanceAnalysisReport" : {}
+  },
+  "branchCashAllocationReference" : "BCAR781162",
+  "branchCashAllocationCustomerReference" : "BCACR788204"
+}

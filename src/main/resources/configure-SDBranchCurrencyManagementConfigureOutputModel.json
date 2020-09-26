@@ -1,0 +1,21 @@
+{
+  "branchCurrencyManagementServiceConfigurationRecord" : {
+    "branchCurrencyManagementServiceStatus" : "branchCurrencyManagementServiceStatus",
+    "branchCurrencyManagementServiceConfigurationSettingDescription" : "branchCurrencyManagementServiceConfigurationSettingDescription",
+    "branchCurrencyManagementServiceConfigurationSetup" : {
+      "branchCurrencyManagementServiceConfigurationParameter" : "branchCurrencyManagementServiceConfigurationParameter"
+    },
+    "branchCurrencyManagementServiceSubscription" : {
+      "branchCurrencyManagementServiceSubscriberReference" : "756221",
+      "branchCurrencyManagementServiceSubscriberAccessProfile" : "branchCurrencyManagementServiceSubscriberAccessProfile"
+    },
+    "branchCurrencyManagementServiceAgreement" : {
+      "branchCurrencyManagementServiceAgreementReference" : "721156",
+      "branchCurrencyManagementServiceAgreementTermsandConditions" : "branchCurrencyManagementServiceAgreementTermsandConditions",
+      "branchCurrencyManagementServiceUserReference" : "733696"
+    }
+  },
+  "branchCurrencyManagementServicingSessionStatus" : "branchCurrencyManagementServicingSessionStatus",
+  "branchCurrencyManagementConfigurationActionTaskRecord" : {},
+  "branchCurrencyManagementConfigurationActionTaskReference" : "SCATR765419"
+}

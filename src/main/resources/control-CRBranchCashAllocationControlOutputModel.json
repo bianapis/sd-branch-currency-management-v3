@@ -1,0 +1,11 @@
+{
+  "branchCashAllocationSelectedOption" : "branchCashAllocationSelectedOption",
+  "branchCashAllocationRequest" : "branchCashAllocationRequest",
+  "branchCashAllocationControlActionResponse" : "branchCashAllocationControlActionResponse",
+  "branchCashAllocationParameterType" : "branchCashAllocationParameterType",
+  "branchCashAllocationStatus" : "branchCashAllocationStatus",
+  "branchCashAllocationSchedule" : "branchCashAllocationSchedule",
+  "branchCashAllocationControlActionTaskReference" : "BCACATR736432",
+  "branchCashAllocationCustomerReference" : "BCACR782375",
+  "branchCashAllocationControlActionTaskRecord" : {}
+}

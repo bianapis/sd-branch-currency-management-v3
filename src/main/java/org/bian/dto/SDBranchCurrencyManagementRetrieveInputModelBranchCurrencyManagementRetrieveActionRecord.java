@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementActivityAnalysis;
+import org.bian.dto.SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementPerformanceAnalysis;
+import org.bian.dto.SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordControlRecordPortfolioAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecord
+ */
+public class SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecord   {
+  private SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementActivityAnalysis branchCurrencyManagementActivityAnalysis = null;
+
+  private SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementPerformanceAnalysis branchCurrencyManagementPerformanceAnalysis = null;
+
+  private SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get branchCurrencyManagementActivityAnalysis
+   * @return branchCurrencyManagementActivityAnalysis
+  **/
+
+  public SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementActivityAnalysis getBranchCurrencyManagementActivityAnalysis() {
+    return branchCurrencyManagementActivityAnalysis;
+  }
+
+  public void setBranchCurrencyManagementActivityAnalysis(SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementActivityAnalysis branchCurrencyManagementActivityAnalysis) {
+    this.branchCurrencyManagementActivityAnalysis = branchCurrencyManagementActivityAnalysis;
+  }
+
+
+  /**
+   * Get branchCurrencyManagementPerformanceAnalysis
+   * @return branchCurrencyManagementPerformanceAnalysis
+  **/
+
+  public SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementPerformanceAnalysis getBranchCurrencyManagementPerformanceAnalysis() {
+    return branchCurrencyManagementPerformanceAnalysis;
+  }
+
+  public void setBranchCurrencyManagementPerformanceAnalysis(SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordBranchCurrencyManagementPerformanceAnalysis branchCurrencyManagementPerformanceAnalysis) {
+    this.branchCurrencyManagementPerformanceAnalysis = branchCurrencyManagementPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDBranchCurrencyManagementRetrieveInputModelBranchCurrencyManagementRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+
